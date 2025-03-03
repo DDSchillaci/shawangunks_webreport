@@ -1,5 +1,5 @@
 ---
-title: "Past"
+title: "Historical Conditions"
 ---
 ### LANDFIRE's Biophysical Settings (BpSs)
 

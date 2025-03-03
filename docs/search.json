@@ -23,114 +23,114 @@
   {
     "objectID": "past.html",
     "href": "past.html",
-    "title": "Past",
+    "title": "Historical Conditions",
     "section": "",
     "text": "BpS models represent the vegetation system that may have been dominant on the landscape prior to Euro-American settlement. These models are based on a combination of the current environment and an approximation of the historical disturbance regime. Read more.\n\nCheck out this 3-minute tutorial for a quick refresher on the basics of Biophysical Settings Models.\nUse this page as a starting point to explore the most prevalent BpSs for your analysis area. In addition to the charts and maps, the historical disturbance data can be directly accessed using this site."
   },
   {
     "objectID": "past.html#most-prevalent-biophysical-settings",
     "href": "past.html#most-prevalent-biophysical-settings",
-    "title": "Past",
+    "title": "Historical Conditions",
     "section": "Most prevalent Biophysical Settings",
     "text": "Most prevalent Biophysical Settings"
   },
   {
     "objectID": "past.html#historic-annual-acres-burned-per-ecosystem",
     "href": "past.html#historic-annual-acres-burned-per-ecosystem",
-    "title": "Past",
+    "title": "Historical Conditions",
     "section": "Historic Annual Acres Burned (per ecosystem)",
     "text": "Historic Annual Acres Burned (per ecosystem)"
   },
   {
     "objectID": "past.html#top-historical-fire-regimes",
     "href": "past.html#top-historical-fire-regimes",
-    "title": "Past",
+    "title": "Historical Conditions",
     "section": "Top Historical Fire Regimes",
     "text": "Top Historical Fire Regimes"
   },
   {
     "objectID": "past.html#historical-disturbances-per-ecosystem",
     "href": "past.html#historical-disturbances-per-ecosystem",
-    "title": "Past",
+    "title": "Historical Conditions",
     "section": "Historical disturbances per ecosystem",
     "text": "Historical disturbances per ecosystem\n\n\n\n\n\n\nSelect ecosystem"
   },
   {
     "objectID": "past.html#data-table",
     "href": "past.html#data-table",
-    "title": "Past",
+    "title": "Historical Conditions",
     "section": "Data table",
     "text": "Data table\n\n\n\n\n\nZONE\nBPS_MODEL\nBPS_NAME\nGROUPVEG\nFRI_REPLAC\nFRI_MIXED\nFRI_SURFAC\nFRG_NEW\nACRES\nREL_PERCENT\n\n\n\n\n64\n13770_60_61_63_64_65_66\nCentral Appalachian Pine-Oak Rocky Woodland\nHardwood-Conifer\n412\n384\n4,645\nIII-B\n10,046\n41.6\n\n\n64\n13690_60_61_63_64_65_66\nCentral Appalachian Dry Oak-Pine Forest\nHardwood-Conifer\n182\n463\n15\nI-B\n9,352\n38.7\n\n\n64\n13700_60_63_64_65_66\nAppalachian (Hemlock-)Northern Hardwood Forest\nHardwood\n1,010\n1,122\n-9,999\nV-B\n2,501\n10.3\n\n\n64\n14720_64_65_66\nCentral Interior and Appalachian Riparian Systems\nRiparian\n984\n-9,999\n198\nIII-B\n884\n3.7\n\n\n64\n13020_64\nLaurentian-Acadian Northern Hardwoods Forest\nHardwood\n2,108\n-9,999\n-9,999\nV-B\n592\n2.4\n\n\n64\n13030_61_63_64_65_66\nNortheastern Interior Dry-Mesic Oak Forest\nHardwood\n39\n24\n9\nI-B\n330\n1.4\n\n\n0\n0\nOpen Water\nOpen Water\n-9,999\n-9,999\n-9,999\n-9999\n187\n0.8\n\n\n64\n13660_51_63_64_65_66\nLaurentian-Acadian Pine-Hemlock-Hardwood Forest\nHardwood-Conifer\n482\n998\n289\nIII-B\n114\n0.5\n\n\n64\n14790_60_61_63_64_65_66\nCentral Interior and Appalachian Swamp Systems\nRiparian\n1,011\n-9,999\n1,353\nV-B\n112\n0.5\n\n\n64\n14710_64_65\nCentral Interior and Appalachian Floodplain Systems\nRiparian\n603\n392\n120\nIII-A\n28\n0.1\n\n\n64\n15260_64_65_66\nLaurentian-Acadian Swamp Systems\nRiparian\n1,011\n-9,999\n-9,999\nV-B\n22\n0.1\n\n\n64\n14750_41_50_51_63_64_65_66\nLaurentian-Acadian Floodplain Systems\nRiparian\n-9,999\n435\n68\nIII-A\n0\n0.0\n\n\n64\n14940_64\nLaurentian-Acadian Shrub-Herbaceous Wetland Systems\nRiparian\n794\n-9,999\n-9,999\nV-B\n2\n0.0"
   },
   {
     "objectID": "present.html",
     "href": "present.html",
-    "title": "Present",
+    "title": "Current Conditions",
     "section": "",
     "text": "LANDFIRE’s Existing Vegetation Type, Cover and Height datasets describe vegetation conditions.\nRead more about LANDFIRE Vegetation Products"
   },
   {
     "objectID": "present.html#most-prevalent-existing-vegetation-types",
     "href": "present.html#most-prevalent-existing-vegetation-types",
-    "title": "Present",
+    "title": "Current Conditions",
     "section": "Most Prevalent Existing Vegetation Types",
     "text": "Most Prevalent Existing Vegetation Types"
   },
   {
     "objectID": "present.html#existing-vegetation-cover",
     "href": "present.html#existing-vegetation-cover",
-    "title": "Present",
+    "title": "Current Conditions",
     "section": "Existing Vegetation Cover",
     "text": "Existing Vegetation Cover"
   },
   {
     "objectID": "present.html#existing-vegetation-height",
     "href": "present.html#existing-vegetation-height",
-    "title": "Present",
+    "title": "Current Conditions",
     "section": "Existing Vegetation Height",
     "text": "Existing Vegetation Height"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "N. Shawangunks, 2025",
+    "title": "Northern Shawangunk Ridge, New York",
     "section": "",
     "text": "These LANDFIRE-Powered Landscape Assessments allow users to start exploring trends, landscape conversion and natural resource management options."
   },
   {
     "objectID": "index.html#goals-of-this-demonstration",
     "href": "index.html#goals-of-this-demonstration",
-    "title": "N. Shawangunks, 2025",
+    "title": "Northern Shawangunk Ridge, New York",
     "section": "Goals of this demonstration",
-    "text": "Goals of this demonstration\nWe will use LANDFIRE products to:\n\nCharacterize and map past and present ecosystem conditions.\nExplore historical disturbance patterns.\nSummarize patterns of change and management opportunities.\n\nThe following charts, maps, and graphs are based on current LANDFIRE products, and provide a starting point for further analysis.\nThis demonstration will:\n\nProvide context for the past and present ecosystem conditions of the N.Shawangunks.\nDemonstrate the power of data visualization to explore ecological patterns and functions using LANDFIRE products.\nFacilitate an understanding of historical and current conditions on a regional scale."
+    "text": "Goals of this demonstration\nWe will use LANDFIRE products to:\n\nCharacterize and map past and present ecosystem conditions.\nExplore historical disturbance patterns.\nSummarize patterns of change and management opportunities.\n\nThe following charts, maps, and graphs are based on current LANDFIRE products, and provide a starting point for further analysis.\nThis demonstration will:\n\nProvide context for the past and present ecosystem conditions of the Northern Shawangunks.\nDemonstrate the power of data visualization to explore ecological patterns and functions using LANDFIRE products.\nFacilitate an understanding of historical and current conditions on a regional scale."
   },
   {
     "objectID": "index.html#location-of-this-assessment",
     "href": "index.html#location-of-this-assessment",
-    "title": "N. Shawangunks, 2025",
+    "title": "Northern Shawangunk Ridge, New York",
     "section": "Location of this assessment",
     "text": "Location of this assessment"
   },
   {
     "objectID": "index.html#how-to-use-this-web-report",
     "href": "index.html#how-to-use-this-web-report",
-    "title": "N. Shawangunks, 2025",
+    "title": "Northern Shawangunk Ridge, New York",
     "section": "How to use this web report",
-    "text": "How to use this web report\n\nAll maps, input datasets and further assistance can be obtained by contacting the author, Randy Swaty.\nReview is ongoing.\nTo share this web app, simply share the hyperlink.\nToggle between dark and light display of this site in the upper right corner of the page.\nLearn more about LANDFIRE and The Nature Conservancy here."
+    "text": "How to use this web report\n\nAll maps, input datasets and further assistance can be obtained by contacting the author, Diego Schillaci.\nReview is ongoing.\nTo share this web app, simply share the hyperlink.\nToggle between dark and light display of this site in the upper right corner of the page.\nLearn more about LANDFIRE and The Nature Conservancy here."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About this Project",
     "section": "",
-    "text": "LANDFIRE (Landscape Fire and Resource Management Planning Tools) is a shared program between the U.S. Department of Agriculture Forest Service Fire and Aviation branch and the U.S. Department of the Interior. LANDFIRE provides 25+ national landscape-scale geo-spatial products, 950 vegetation models, and a suite of tools that support all-lands planning, management, and operations. Included in the product suite are current and historic conditions including ecosystem dynamic models that can be used for conservation, fire planning, and landscape management decisions.\nThe Nature Conservancy (TNC) is a Major Partner in the LANDFIRE Program supported by a cooperative agreement through USDA Forest Service. TNC’s LANDFIRE Team works closely with the LANDFIRE Business Leads, program staff, and other partners to provide support to LANDFIRE and the user community by:\n\nHelping users understand the strengths, weaknesses, and appropriate uses of LANDFIRE products.\nLocating, obtaining, and using geospatial data, tools, and models for fire and natural resource management, planning, and implementation.\nIdentifying and comparing management priorities, evaluating threats to ecosystems, and exploring outcomes under alternative management scenarios.\n\n\nTNC’s LANDFIRE Team is advancing conservation outcomes through collaborative ecosystem science by supporting LANDFIRE users as they locate, obtain and apply the diverse suite of LANDFIRE products and data.\n\nCreated by TNC Ecologist, Randy Swaty, this preliminary landscape assessment leverages LANDFIRE’s unique geospatial products to advance beneficial outcomes for the wildland fire and natural resource communities. The central data in each project are created and managed by the cooperative inter-agency/inter-organizational LANDFIRE program.\nThese charts, maps, and graphs are based on current LANDFIRE products, and provide a starting point for further analysis. All maps, input datasets and further assistance can be obtained by contacting the author, Randy Swaty.\nSubstantial code contributions for GIS data processing by Myles Walimaa."
+    "text": "LANDFIRE (Landscape Fire and Resource Management Planning Tools) is a shared program between the U.S. Department of Agriculture Forest Service Fire and Aviation branch and the U.S. Department of the Interior. LANDFIRE provides 25+ national landscape-scale geo-spatial products, 950 vegetation models, and a suite of tools that support all-lands planning, management, and operations. Included in the product suite are current and historic conditions including ecosystem dynamic models that can be used for conservation, fire planning, and landscape management decisions.\nThe Nature Conservancy (TNC) is a Major Partner in the LANDFIRE Program supported by a cooperative agreement through USDA Forest Service. TNC’s LANDFIRE Team works closely with the LANDFIRE Business Leads, program staff, and other partners to provide support to LANDFIRE and the user community by:\n\nHelping users understand the strengths, weaknesses, and appropriate uses of LANDFIRE products.\nLocating, obtaining, and using geospatial data, tools, and models for fire and natural resource management, planning, and implementation.\nIdentifying and comparing management priorities, evaluating threats to ecosystems, and exploring outcomes under alternative management scenarios.\n\n\nTNC’s LANDFIRE Team is advancing conservation outcomes through collaborative ecosystem science by supporting LANDFIRE users as they locate, obtain and apply the diverse suite of LANDFIRE products and data.\n\nCreated by Paul Smith’s College student Diego Schillaci, this preliminary landscape assessment utilizes LANDFIRE’s unique geospatial products to advance beneficial outcomes for the wildland fire and natural resource management communities. The central data in each project are created and managed by the cooperative inter-agency/inter-organizational LANDFIRE program.\nThese charts, maps, and graphs are based on current LANDFIRE products, and provide a starting point for further analysis. All maps, input datasets and further assistance can be obtained by contacting the author, Diego Schillaci.\nSubstantial code contributions for GIS data processing by TNC Ecologist, Randy Swaty and Myles Walimaa."
   },
   {
     "objectID": "about.html#landfire-the-nature-conservancy",
     "href": "about.html#landfire-the-nature-conservancy",
     "title": "About this Project",
     "section": "",
-    "text": "LANDFIRE (Landscape Fire and Resource Management Planning Tools) is a shared program between the U.S. Department of Agriculture Forest Service Fire and Aviation branch and the U.S. Department of the Interior. LANDFIRE provides 25+ national landscape-scale geo-spatial products, 950 vegetation models, and a suite of tools that support all-lands planning, management, and operations. Included in the product suite are current and historic conditions including ecosystem dynamic models that can be used for conservation, fire planning, and landscape management decisions.\nThe Nature Conservancy (TNC) is a Major Partner in the LANDFIRE Program supported by a cooperative agreement through USDA Forest Service. TNC’s LANDFIRE Team works closely with the LANDFIRE Business Leads, program staff, and other partners to provide support to LANDFIRE and the user community by:\n\nHelping users understand the strengths, weaknesses, and appropriate uses of LANDFIRE products.\nLocating, obtaining, and using geospatial data, tools, and models for fire and natural resource management, planning, and implementation.\nIdentifying and comparing management priorities, evaluating threats to ecosystems, and exploring outcomes under alternative management scenarios.\n\n\nTNC’s LANDFIRE Team is advancing conservation outcomes through collaborative ecosystem science by supporting LANDFIRE users as they locate, obtain and apply the diverse suite of LANDFIRE products and data.\n\nCreated by TNC Ecologist, Randy Swaty, this preliminary landscape assessment leverages LANDFIRE’s unique geospatial products to advance beneficial outcomes for the wildland fire and natural resource communities. The central data in each project are created and managed by the cooperative inter-agency/inter-organizational LANDFIRE program.\nThese charts, maps, and graphs are based on current LANDFIRE products, and provide a starting point for further analysis. All maps, input datasets and further assistance can be obtained by contacting the author, Randy Swaty.\nSubstantial code contributions for GIS data processing by Myles Walimaa."
+    "text": "LANDFIRE (Landscape Fire and Resource Management Planning Tools) is a shared program between the U.S. Department of Agriculture Forest Service Fire and Aviation branch and the U.S. Department of the Interior. LANDFIRE provides 25+ national landscape-scale geo-spatial products, 950 vegetation models, and a suite of tools that support all-lands planning, management, and operations. Included in the product suite are current and historic conditions including ecosystem dynamic models that can be used for conservation, fire planning, and landscape management decisions.\nThe Nature Conservancy (TNC) is a Major Partner in the LANDFIRE Program supported by a cooperative agreement through USDA Forest Service. TNC’s LANDFIRE Team works closely with the LANDFIRE Business Leads, program staff, and other partners to provide support to LANDFIRE and the user community by:\n\nHelping users understand the strengths, weaknesses, and appropriate uses of LANDFIRE products.\nLocating, obtaining, and using geospatial data, tools, and models for fire and natural resource management, planning, and implementation.\nIdentifying and comparing management priorities, evaluating threats to ecosystems, and exploring outcomes under alternative management scenarios.\n\n\nTNC’s LANDFIRE Team is advancing conservation outcomes through collaborative ecosystem science by supporting LANDFIRE users as they locate, obtain and apply the diverse suite of LANDFIRE products and data.\n\nCreated by Paul Smith’s College student Diego Schillaci, this preliminary landscape assessment utilizes LANDFIRE’s unique geospatial products to advance beneficial outcomes for the wildland fire and natural resource management communities. The central data in each project are created and managed by the cooperative inter-agency/inter-organizational LANDFIRE program.\nThese charts, maps, and graphs are based on current LANDFIRE products, and provide a starting point for further analysis. All maps, input datasets and further assistance can be obtained by contacting the author, Diego Schillaci.\nSubstantial code contributions for GIS data processing by TNC Ecologist, Randy Swaty and Myles Walimaa."
   },
   {
     "objectID": "about.html#biophysical-settings-products",

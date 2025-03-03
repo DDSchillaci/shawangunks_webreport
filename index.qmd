@@ -1,6 +1,6 @@
 ---
-title: "N. Shawangunks, 2025"
-author: "Randy Swaty with substantial code contributions from Myles Walimaa"
+title: "Northern Shawangunk Ridge, New York"
+author: "Diego Schillaci- Paul Smith's College with substantial code contributions from Randy Swaty & Myles Walimaa"
 ---
 
 <font size="4"> 
@@ -23,7 +23,7 @@ The following charts, maps, and graphs are based on current LANDFIRE products, a
 
 This demonstration will:
 
-* Provide context for the past and present ecosystem conditions of the N.Shawangunks.
+* Provide context for the past and present ecosystem conditions of the Northern Shawangunks.
 * Demonstrate the power of data visualization to explore ecological patterns and functions using LANDFIRE products.
 * Facilitate an understanding of historical and current conditions on a regional scale.
 
@@ -56,12 +56,14 @@ shp <- st_read("data/minnewaska_state_park.shp") %>%
   st_sf()
 ```
 
-```{r locator map, message=FALSE, warning=FALSE, echo=FALSE}
+```{r locator map, echo=FALSE, message=FALSE, warning=FALSE}
 ggplot() +
-  annotation_map_tile(type = "osm", zoom = 10) +  # OpenStreetMap basemap
-  geom_sf(data = shp, fill = "lightgreen", color = "darkgreen") +
+  annotation_map_tile(type = "osm", zoom = 14) +  # OpenStreetMap basemap
+  geom_sf(data = shp, fill = "lightgreen", color = "darkgreen", alpha = 0.6) +
   labs(title = "Minnewaska State Park") +
-  theme_minimal()
+  theme_minimal() + 
+  theme(axis.text = element_blank(),  # Remove lat/lon numbers
+        axis.ticks = element_blank())  # Remove axis ticks
 
 
 
@@ -70,7 +72,7 @@ ggplot() +
 
 ## How to use this web report
 
-* All maps, input datasets and further assistance can be obtained by contacting the author, [Randy Swaty](mailto:rswaty@tnc.org){target="blank"}.
+* All maps, input datasets and further assistance can be obtained by contacting the author, [Diego Schillaci](mailto:dschillaci@paulsmiths.edu){target="blank"}.
 * Review is ongoing.
 * To share this web app, simply share the hyperlink.
 * Toggle between dark and light display of this site in the upper right corner of the page.
