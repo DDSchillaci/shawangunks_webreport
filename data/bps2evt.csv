@@ -1,0 +1,22 @@
+EVT_PHYS2,GROUPVEG,Sum of acres
+EVT  Agricultural,BPS  Hardwood,3
+EVT  Agricultural,BPS  Hardwood-Conifer,31
+EVT  Agricultural,BPS  Riparian,1
+EVT  Conifer,BPS  Hardwood,373
+EVT  Conifer,BPS  Hardwood-Conifer,1454
+EVT  Conifer,BPS  Riparian,209
+EVT  Conifer-Hardwood,BPS  Hardwood,1466
+EVT  Conifer-Hardwood,BPS  Hardwood-Conifer,8935
+EVT  Conifer-Hardwood,BPS  Riparian,456
+Developed,BPS  Hardwood,94
+Developed,BPS  Hardwood-Conifer,184
+Developed,BPS  Riparian,14
+Exotics,BPS  Hardwood,1
+Exotics,BPS  Hardwood-Conifer,73
+Exotics,BPS  Riparian,0
+EVT  Hardwood,BPS  Hardwood,1433
+EVT  Hardwood,BPS  Hardwood-Conifer,8517
+EVT  Hardwood,BPS  Riparian,242
+EVT  Riparian,BPS  Hardwood,50
+EVT  Riparian,BPS  Hardwood-Conifer,315
+EVT  Riparian,BPS  Riparian,119
