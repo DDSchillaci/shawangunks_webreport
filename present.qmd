@@ -1,5 +1,5 @@
 ---
-title: "Present"
+title: "Current Conditions"
 ---
 
 ```{r include=FALSE, echo=FALSE, message=FALSE, warning=FALSE}
@@ -36,7 +36,7 @@ evtChart <-
   ggplot(data = evtname, aes(x = EVT_NAME, y = REL_PERCENT)) +
   geom_bar(stat = "identity") +
   labs(
-    title = "Top 10 Existing Vegetation Types",
+    title = "10 Most Prevalent Vegetation Types",
     subtitle = "Represents dominant vegetation systems ca2020",
     caption = "\nData from landfire.gov.",
     x = "",
