@@ -1,6 +1,9 @@
 ---
-title: "Northern Shawangunk Ridge, New York"
-author: "Diego Schillaci-Paul Smith's College with substantial code contributions from Randy Swaty & Myles Walimaa"
+title: "Fire Dependent Ecosystems on the Northern Shawangunk Ridge"
+author: 
+ " **Diego Schillaci** - Paul Smith's College,  
+  **Randy Swaty** - The Nature Conservancy  
+  with substantial code contributions from Myles Walimaa"
 ---
 
 <font size="4"> 
@@ -29,15 +32,12 @@ This report will:
 
 
 
-## Location of this assessment
-
-**Introduction to the Northern Shawangunks**
+## Introduction to the Northern Shawangunks
 
 
 Minnewaska and Sam's Point State Park Preserves, located on the Northern Shawangunk Ridge in the Mid-Hudson Valley of New York State are considered ecologically unique and sensitive areas. The combined ~29,000 acre State Park Preserves represent two of the five land management agencies located on the Northern Shawangunk Ridge. Underlying these parks, a unique geologic composition and formational history has created a mosaic of globally unique ecological communities. Many of the ecological communities on this ridge are fire dependent which brings into focus the necessity for proper fire management techniques to allow these ecosystems to thrive.
 
-
-
+**Location of this assessment **
 <br>
 
 ```{r libraries, message=FALSE, warning=FALSE, include=FALSE}
@@ -80,6 +80,19 @@ leaflet(shape_data) %>%
 
 ## Land Acknowledgement
 The Northern Shawangunks are recognized as the lands of the Munsee Lenape, Mohican and Schaghticoke Peoples.
+
+
+
+
+## Identifying Barriers to Prescribed Fire on the Northern Shawangunk Ridge
+
+The goal of this  project is to produce a report for land managers to support the use of active fire management and suggest methods for improving fire management strategies by:
+
+	Creating updated ecosystem maps using LANDFIRE data to assess ecosystem conditions Pre-European colonization, Current ecosystem types, Current and historical fire regimes and tracking changes in fire adapted communities 
+
+	Interviewing the involved land managers and ecologists to assess where the current management strategies need to be improved for the future
+
+	Create an extension-style document, a web report and a series of informative pamphlets that can be used by land managers and distributed as an educational tool
 
 
 ## How to use this web report

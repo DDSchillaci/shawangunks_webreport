@@ -93,7 +93,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Northern Shawangunk Ridge, New York",
+    "title": "Fire Dependent Ecosystems on the Northern Shawangunk Ridge",
     "section": "",
     "text": "These LANDFIRE-Powered Landscape Assessments allow users to start exploring trends, landscape conversion and natural resource management options."
   },
@@ -114,7 +114,7 @@
   {
     "objectID": "index.html#how-to-use-this-web-report",
     "href": "index.html#how-to-use-this-web-report",
-    "title": "Northern Shawangunk Ridge, New York",
+    "title": "Fire Dependent Ecosystems on the Northern Shawangunk Ridge",
     "section": "How to use this web report",
     "text": "How to use this web report\n\nAll maps, input datasets and further assistance can be obtained by contacting the author, Diego Schillaci.\nReview is ongoing.\nTo share this web app, simply share the hyperlink.\nToggle between dark and light display of this site in the upper right corner of the page.\nLearn more about LANDFIRE and The Nature Conservancy here."
   },
@@ -156,15 +156,29 @@
   {
     "objectID": "index.html#goals-of-this-report",
     "href": "index.html#goals-of-this-report",
-    "title": "Northern Shawangunk Ridge, New York",
+    "title": "Fire Dependent Ecosystems on the Northern Shawangunk Ridge",
     "section": "Goals of this report",
     "text": "Goals of this report\nLANDFIRE products will be used to to:\n\nCharacterize and map past and present ecosystem conditions.\nExplore historical disturbance patterns.\nSummarize patterns of change and management opportunities.\n\nThe following charts, maps, and graphs are based on current LANDFIRE products, and provide a starting point for further analysis.\nThis report will:\n\nProvide context for the past and present ecosystem conditions of the Northern Shawangunks.\nDemonstrate the power of data visualization to explore ecological patterns and functions using LANDFIRE products.\nFacilitate an understanding of historical and current conditions on a regional scale."
   },
   {
     "objectID": "index.html#land-acknowledgement",
     "href": "index.html#land-acknowledgement",
-    "title": "Northern Shawangunk Ridge, New York",
+    "title": "Fire Dependent Ecosystems on the Northern Shawangunk Ridge",
     "section": "Land Acknowledgement",
     "text": "Land Acknowledgement\nThe Northern Shawangunks are recognized as the lands of the Munsee Lenape, Mohican and Schaghticoke Peoples."
+  },
+  {
+    "objectID": "index.html#introduction-to-the-northern-shawangunks",
+    "href": "index.html#introduction-to-the-northern-shawangunks",
+    "title": "Fire Dependent Ecosystems on the Northern Shawangunk Ridge",
+    "section": "Introduction to the Northern Shawangunks",
+    "text": "Introduction to the Northern Shawangunks\nMinnewaska and Sam’s Point State Park Preserves, located on the Northern Shawangunk Ridge in the Mid-Hudson Valley of New York State are considered ecologically unique and sensitive areas. The combined ~29,000 acre State Park Preserves represent two of the five land management agencies located on the Northern Shawangunk Ridge. Underlying these parks, a unique geologic composition and formational history has created a mosaic of globally unique ecological communities. Many of the ecological communities on this ridge are fire dependent which brings into focus the necessity for proper fire management techniques to allow these ecosystems to thrive.\nLocation of this assessment"
+  },
+  {
+    "objectID": "index.html#identifying-barriers-to-prescribed-fire-on-the-northern-shawangunk-ridge",
+    "href": "index.html#identifying-barriers-to-prescribed-fire-on-the-northern-shawangunk-ridge",
+    "title": "Fire Dependent Ecosystems on the Northern Shawangunk Ridge",
+    "section": "Identifying Barriers to Prescribed Fire on the Northern Shawangunk Ridge",
+    "text": "Identifying Barriers to Prescribed Fire on the Northern Shawangunk Ridge\nThe goal of this project is to produce a report for land managers to support the use of active fire management and suggest methods for improving fire management strategies by:\n Creating updated ecosystem maps using LANDFIRE data to assess ecosystem conditions Pre-European colonization, Current ecosystem types, Current and historical fire regimes and tracking changes in fire adapted communities\n Interviewing the involved land managers and ecologists to assess where the current management strategies need to be improved for the future\n Create an extension-style document, a web report and a series of informative pamphlets that can be used by land managers and distributed as an educational tool"
   }
 ]
