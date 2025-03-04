@@ -1,6 +1,6 @@
 ---
 title: "Northern Shawangunk Ridge, New York"
-author: "Diego Schillaci- Paul Smith's College with substantial code contributions from Randy Swaty & Myles Walimaa"
+author: "Diego Schillaci-Paul Smith's College with substantial code contributions from Randy Swaty & Myles Walimaa"
 ---
 
 <font size="4"> 
@@ -9,9 +9,9 @@ author: "Diego Schillaci- Paul Smith's College with substantial code contributio
 </font> 
 
 
-## Goals of this demonstration
+## Goals of this report
 
-We will use [LANDFIRE](https://landfire.gov/){target="blank"} products to:
+[LANDFIRE](https://landfire.gov/){target="blank"} products will be used to to:
 
 1. Characterize and map past and present ecosystem conditions.
 2. Explore historical disturbance patterns.
@@ -21,7 +21,7 @@ We will use [LANDFIRE](https://landfire.gov/){target="blank"} products to:
 The following charts, maps, and graphs are based on current LANDFIRE products, and provide a starting point for further analysis.
 
 
-This demonstration will:
+This report will:
 
 * Provide context for the past and present ecosystem conditions of the Northern Shawangunks.
 * Demonstrate the power of data visualization to explore ecological patterns and functions using LANDFIRE products.
@@ -30,6 +30,11 @@ This demonstration will:
 
 
 ## Location of this assessment
+
+**Introduction to the Northern Shawangunks**
+
+
+Minnewaska and Sam's Point State Park Preserves, located on the Northern Shawangunk Ridge in the Mid-Hudson Valley of New York State are considered ecologically unique and sensitive areas. The combined ~29,000 acre State Park Preserves represent two of the five land management agencies located on the Northern Shawangunk Ridge. Underlying these parks, a unique geologic composition and formational history has created a mosaic of globally unique ecological communities. Many of the ecological communities on this ridge are fire dependent which brings into focus the necessity for proper fire management techniques to allow these ecosystems to thrive.
 
 
 
@@ -43,6 +48,7 @@ library(terra)
 library(tidyverse)
 library(raster)
 library(ggspatial)
+library(leaflet)
 
 
 ```
@@ -50,25 +56,31 @@ library(ggspatial)
 
 ```{r read shapefile, message=FALSE, warning=FALSE, include=FALSE}
 #  read shape
-shp <- st_read("data/minnewaska_state_park.shp") %>% 
-  st_transform(crs = 5070) %>%
-  st_union() %>%
-  st_sf()
+shapefile_path <- "/Users/Diego/Leaflet_test/data/minnewaska_state_park.shp"
+shape_data <- st_read( shapefile_path )
+
+shape_data <- st_transform(shape_data, crs = 4326)
 ```
 
 ```{r locator map, echo=FALSE, message=FALSE, warning=FALSE}
-ggplot() +
-  annotation_map_tile(type = "osm", zoom = 14) +  # OpenStreetMap basemap
-  geom_sf(data = shp, fill = "lightgreen", color = "darkgreen", alpha = 0.6) +
-  labs(title = "Minnewaska State Park") +
-  theme_minimal() + 
-  theme(axis.text = element_blank(),  # Remove lat/lon numbers
-        axis.ticks = element_blank())  # Remove axis ticks
-
-
+leaflet(shape_data) %>%
+  addTiles() %>% 
+  addPolygons(color = "orange", weight = 3, opacity = 0.8, fillOpacity = 0.2) %>%
+ 
+  addProviderTiles(providers$Esri.WorldImagery, group = "Satellite") %>%
+  addProviderTiles(providers$Esri.WorldTopoMap, group = "Terrain") %>%
+  addLayersControl(
+    baseGroups = c("Terrain", "Satellite"),
+    options = layersControlOptions(collapsed = FALSE)
+  )
 
 
 ```
+
+
+## Land Acknowledgement
+The Northern Shawangunks are recognized as the lands of the Munsee Lenape, Mohican and Schaghticoke Peoples.
+
 
 ## How to use this web report
 
